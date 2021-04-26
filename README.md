@@ -1,2 +1,2 @@
 # systemsEngineering
-Project work from systems engineering course
+Project work from systems design and engineering course
